@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a1d495c90715c550774aebce5b03e33a/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

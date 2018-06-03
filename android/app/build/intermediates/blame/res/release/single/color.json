@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1015df61c85ace7d96cb60fc8366d3ed/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1015df61c85ace7d96cb60fc8366d3ed/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1015df61c85ace7d96cb60fc8366d3ed/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color/abc_secondary_text_material_light.xml"
+    }
+]

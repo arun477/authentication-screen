@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2efd90275f6905921bc9a3658ab85bb8/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

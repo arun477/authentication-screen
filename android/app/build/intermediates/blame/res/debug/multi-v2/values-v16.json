@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/xedflix/arun/auth/android/app/build/intermediates/res/merged/debug/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a1d495c90715c550774aebce5b03e33a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/xedflix/arun/auth/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/xedflix/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a1d495c90715c550774aebce5b03e33a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

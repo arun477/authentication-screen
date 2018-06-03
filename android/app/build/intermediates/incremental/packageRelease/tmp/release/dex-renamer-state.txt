@@ -1,0 +1,4 @@
+#Fri May 11 21:44:02 IST 2018
+base.0=/home/xedflix/arun/auth/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
